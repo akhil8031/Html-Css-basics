@@ -1,0 +1,86 @@
+h1{
+	color: blue;
+}
+
+.nav{
+	padding-top: 10px;
+}
+.nav a{
+	    text-transform: uppercase;
+	    font-size: 16px;
+	    padding: 10px 10px;
+	    font-weight: bold;
+		color: #000000;
+}
+
+.nav li{
+	display: inline;
+}
+
+.container h1{
+	padding-top: 50px;
+	color: red;
+	font-size: 80px;
+}
+
+body{
+	background-color: lightblue;
+}
+
+.jumbotron{
+	background-image: url("cover1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	height: 450px;
+}
+
+h2{
+	color: #FFFFFF;
+	background-color: grey;
+}
+
+.nav{
+	background-color: #FF1754;
+}
+
+img{
+	height:250px; 
+	width:300px;
+	padding: 10px 10px 10px 10px;
+	margin-top: 0px;
+	margin-left: 40px;
+	border: solid;
+	border-radius: 100px;
+    margin-bottom: 15px;
+}
+
+.reference{
+
+
+	background-color: #5f5f5f;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.reference .glyphicon{
+	color: white;
+	font-size: 20px;
+	top: 5px;
+}
+
+.reference h4{
+	padding-left: 25px;
+	font-weight: bold;
+	color: white;
+    font-size: 20px;
+}
+
+.reference li{
+	display: inline;
+}
+
+.btn{
+	font-size: 25px;
+	color: white;
+}
